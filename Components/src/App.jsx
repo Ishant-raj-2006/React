@@ -123,7 +123,10 @@
 
 
 import React from 'react'
+// import Card from'./Components/card'
+// import Card from "./card";
 
+import Card from "../card";
 const App = () => {
   return (
     <div>
@@ -135,6 +138,7 @@ const App = () => {
       <h1> Ishant Raj </h1>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia minus illum iste distinctio autem quo temporibus nemo facere totam, atque neque, adipisci inventore mollitia libero saepe eligendi excepturi repudiandae, vero a praesentium. Repudiandae animi perspiciatis rem fugiat doloribus ipsa sint maiores accusamus, ipsum, id dolorum consectetur reprehenderit inventore odio, libero voluptate debitis nulla. Numquam vel perferendis maxime quaerat et magnam ab autem ex. Officia quae similique illo veritatis eius. Et qui doloribus, voluptatem sit inventore enim veniam vero dolorem cumque minima. Recusandae, totam dolorem quia tempore fuga nam quidem deleniti pariatur aut aspernatur, neque sint architecto necessitatibus consectetur quae est laudantium maxime quis ipsa? Dicta, perferendis enim dolore vero provident repellat dolores! Itaque minima, mollitia suscipit rerum nemo aliquam harum vitae illo animi esse debitis blanditiis culpa excepturi ullam quasi nulla consequuntur obcaecati dignissimos quos labore est autem velit soluta? Temporibus cupiditate culpa maxime ex corporis iure accusamus, provident quas dolorem molestiae eum quod magnam voluptatem rem accusantium ullam! Inventore fuga rerum dolorum iste magni totam! Ex delectus, adipisci autem omnis obcaecati non rerum. Repellat quidem quam molestias facilis aut veniam. Alias voluptatem vel quasi a necessitatibus pariatur deleniti, excepturi at amet minus, iste ipsam earum deserunt sunt, quas expedita?</p>
     </div>
+    {card()}
     </div>
   )
 }
