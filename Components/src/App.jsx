@@ -120,25 +120,22 @@
 // }
 
 // export default App
-// function App(){
-//   return 'Hello Ishant Raj'
-// }
-// export default App
 
 
 import React from 'react'
 
 const App = () => {
   return (
-    <> 
     <div>
-      <div>
-        <p>Yelo</p>
-      </div>
-      <h1>App</h1>
-      <h2>Hello</h2>
+    <div className='card'>
+      <h1> Ishant Raj </h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto cupiditate quod perspiciatis reprehenderit adipisci quas illo. Ipsam totam autem, dolorem ea aperiam id exercitationem eveniet temporibus sequi voluptatum. Nemo, eos?</p>
     </div>
-    </>
+    <div className='card'>
+      <h1> Ishant Raj </h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia minus illum iste distinctio autem quo temporibus nemo facere totam, atque neque, adipisci inventore mollitia libero saepe eligendi excepturi repudiandae, vero a praesentium. Repudiandae animi perspiciatis rem fugiat doloribus ipsa sint maiores accusamus, ipsum, id dolorum consectetur reprehenderit inventore odio, libero voluptate debitis nulla. Numquam vel perferendis maxime quaerat et magnam ab autem ex. Officia quae similique illo veritatis eius. Et qui doloribus, voluptatem sit inventore enim veniam vero dolorem cumque minima. Recusandae, totam dolorem quia tempore fuga nam quidem deleniti pariatur aut aspernatur, neque sint architecto necessitatibus consectetur quae est laudantium maxime quis ipsa? Dicta, perferendis enim dolore vero provident repellat dolores! Itaque minima, mollitia suscipit rerum nemo aliquam harum vitae illo animi esse debitis blanditiis culpa excepturi ullam quasi nulla consequuntur obcaecati dignissimos quos labore est autem velit soluta? Temporibus cupiditate culpa maxime ex corporis iure accusamus, provident quas dolorem molestiae eum quod magnam voluptatem rem accusantium ullam! Inventore fuga rerum dolorum iste magni totam! Ex delectus, adipisci autem omnis obcaecati non rerum. Repellat quidem quam molestias facilis aut veniam. Alias voluptatem vel quasi a necessitatibus pariatur deleniti, excepturi at amet minus, iste ipsam earum deserunt sunt, quas expedita?</p>
+    </div>
+    </div>
   )
 }
 
